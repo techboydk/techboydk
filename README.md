@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 👨‍💻 All of my projects are available at [https://techboydk.github.io/portfolio/](https://techboydk.github.io/portfolio-web/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://techboydk.github.io/portfolio/)
 
 - 💬 Ask me about **css styling**
 
