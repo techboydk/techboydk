@@ -6,15 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techboydk&label=Profile%20views&color=0e75b6&style=flat" alt="techboydk" /> </p>
 
-- 🔭 I’m currently working on **Genealogy**
-
-- 🌱 I’m currently learning **React and Java**
-
-- 👯 I’m looking to collaborate on **open source**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://techboydk.github.io/portfolio/)
-
-- 💬 Ask me about **css styling**
 
 - 📫 How to reach me **003yadavdipesh@gmail.com**
 
